@@ -1,0 +1,5 @@
+# ninja log v6
+1	341	7520419674822458	build.ninja	c0ddabb09dc3954e
+4	232	7516291633137978	CMakeFiles/Algorithm.dir/Src/Main.cpp.obj	310f02dc33ddd0
+233	436	7516291635426039	Algorithm.exe	b430fa05296fb1c1
+4	215	7516295963695489	CMakeFiles/Algorithm.dir/LuoGu/P1000.cpp.obj	e5deb21b5f81e7da
