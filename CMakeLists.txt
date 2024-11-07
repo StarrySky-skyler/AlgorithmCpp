@@ -19,5 +19,9 @@ add_executable(Algorithm Src/Main.cpp
         P1563.cpp
         LuoGu/P2615.cpp
         LuoGu/P1223.cpp
-        Competition/CaoTeacherGoldSentence.cpp
-        Competition/CaoTeacherGoldSentence.cpp)
+        LuoGu/P2001.cpp
+        LuoGu/P3817.cpp
+        LuoGu/P5019.cpp
+        LuoGu/P1208.cpp
+        LuoGu/P1080.cpp
+        LuoGu/P3811.cpp)

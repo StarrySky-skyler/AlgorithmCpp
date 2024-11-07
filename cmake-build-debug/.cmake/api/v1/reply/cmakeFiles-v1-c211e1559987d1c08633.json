@@ -154,8 +154,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "E:/Projects/C++Projects/Algorithm/cmake-build-debug",
-		"source" : "E:/Projects/C++Projects/Algorithm"
+		"build" : "E:/Projects/C++Projects/AlgorithmCpp/cmake-build-debug",
+		"source" : "E:/Projects/C++Projects/AlgorithmCpp"
 	},
 	"version" : 
 	{

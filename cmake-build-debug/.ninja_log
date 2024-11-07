@@ -1,5 +1,22 @@
 # ninja log v6
-1	341	7520419674822458	build.ninja	c0ddabb09dc3954e
-4	232	7516291633137978	CMakeFiles/Algorithm.dir/Src/Main.cpp.obj	310f02dc33ddd0
+12	872	7524882976779109	CMakeFiles/Algorithm.dir/Src/Main.cpp.obj	24df375d7c3c36e7
+1	341	7525854890824210	build.ninja	c0ddabb09dc3954e
+54	979	7524882977199105	CMakeFiles/Algorithm.dir/LuoGu/P1035.cpp.obj	e9f61815363d123e
+111	1246	7524882977766370	CMakeFiles/Algorithm.dir/LuoGu/P1003.cpp.obj	acac802b49a4c601
 233	436	7516291635426039	Algorithm.exe	b430fa05296fb1c1
-4	215	7516295963695489	CMakeFiles/Algorithm.dir/LuoGu/P1000.cpp.obj	e5deb21b5f81e7da
+67	979	7524882977339122	CMakeFiles/Algorithm.dir/LuoGu/P1980.cpp.obj	43745e4131a376ba
+184	1369	7524882978507451	CMakeFiles/Algorithm.dir/LuoGu/P1328.cpp.obj	87511b70c3893c27
+255	980	7524882979213473	CMakeFiles/Algorithm.dir/LuoGu/P2001.cpp.obj	8156456a06ed921a
+40	980	7524882977069105	CMakeFiles/Algorithm.dir/LuoGu/P1085.cpp.obj	3b4e717b4faca52a
+84	1246	7524882977504170	CMakeFiles/Algorithm.dir/LuoGu/P1014.cpp.obj	2198431057df5e7a
+240	1489	7524882979063475	CMakeFiles/Algorithm.dir/LuoGu/P1223.cpp.obj	2702a6863b426413
+27	979	7524882976929102	CMakeFiles/Algorithm.dir/LuoGu/P1000.cpp.obj	962c0dcd42fcde79
+151	1370	7524882978172402	CMakeFiles/Algorithm.dir/LuoGu/P1067.cpp.obj	bab07bb64a2cba21
+124	1245	7524882977906374	CMakeFiles/Algorithm.dir/LuoGu/P1042.cpp.obj	9b41c7c161a6d9c8
+97	1246	7524882977636371	CMakeFiles/Algorithm.dir/LuoGu/P1307.cpp.obj	e1d2c962511e9269
+137	1368	7524882978036370	CMakeFiles/Algorithm.dir/LuoGu/B4025.cpp.obj	fbfda8227d92ec6b
+204	1368	7524882978697447	CMakeFiles/Algorithm.dir/P1563.cpp.obj	367b83bcbedcbaed
+166	1370	7524882978322425	CMakeFiles/Algorithm.dir/LuoGu/P1179.cpp.obj	3991edaccc834f46
+289	1369	7524882979556070	CMakeFiles/Algorithm.dir/LuoGu/P5019.cpp.obj	640a982db65e727d
+271	1370	7524882979373501	CMakeFiles/Algorithm.dir/LuoGu/P3817.cpp.obj	74fd0846a0fef8d4
+222	1490	7524882978877448	CMakeFiles/Algorithm.dir/LuoGu/P2615.cpp.obj	f15d286a979dc558

@@ -7,30 +7,50 @@
 ********************************************************************************/
 #include <bits/stdc++.h>
 
-int peopleCount;
-std::vector<int> times;
+using namespace std;
+
+bool Compare(pair<int, int> a, pair<int, int> b)
+{
+    return a.second < b.second;
+}
+
+void Solve()
+{
+    int n;
+    cin >> n;       // 排队人数
+    vector<pair<int,int>> queue;
+    // 获取输入
+    for (int i = 0; i < n; i++)
+    {
+        pair<int, int> temp;
+        cin >> temp.second;
+        temp.first = i + 1;
+        queue.push_back(temp);
+    }
+    // 按照second的值升序排列
+    sort(queue.begin(), queue.end(), Compare);
+    for (int i = 0; i < n; i++)
+    {
+        cout << queue[i].first << " ";
+    }
+    cout << endl;
+    // 计算平均等待时间
+    long long wait = 0;
+    for (int i = 0; i < n; i++)
+    {
+        wait += queue[i].second * (queue.size() - (i + 1));
+    }
+    // 精确到两位小数
+    cout << fixed << setprecision(2) << wait / (double)n;
+}
 
 int main()
 {
-    std::cin >> peopleCount;
-    for (int i = 0; i < peopleCount; i++)
-    {
-        int t;
-        std::cin >> t;
-        times.push_back(t);
-    }
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
 
-    //std::sort(times.begin(), times.end());
+    Solve();
 
-
-
-    int waitTime = 0;
-    for (int i = 1; i < peopleCount; i++)
-    {
-        for (int j = 0; j < i; j++)
-        {
-            waitTime += times[j];
-        }
-    }
-    printf("%.2lf", (double)waitTime / peopleCount);
+    return 0;
 }

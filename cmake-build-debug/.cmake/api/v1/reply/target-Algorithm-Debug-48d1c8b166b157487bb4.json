@@ -68,7 +68,12 @@
 				13,
 				14,
 				15,
-				16
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
 			]
 		}
 	],
@@ -121,7 +126,12 @@
 				13,
 				14,
 				15,
-				16
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
 			]
 		}
 	],
@@ -226,7 +236,37 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Competition/CaoTeacherGoldSentence.cpp",
+			"path" : "LuoGu/P2001.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "LuoGu/P3817.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "LuoGu/P5019.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "LuoGu/P1208.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "LuoGu/P1080.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "LuoGu/P3811.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

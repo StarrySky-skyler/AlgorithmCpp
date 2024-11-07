@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = E$:/Projects/C++Projects/Algorithm/cmake-build-debug/
+cmake_ninja_workdir = E$:/Projects/C++Projects/AlgorithmCpp/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target Algorithm
 
@@ -49,107 +49,137 @@ cmake_ninja_workdir = E$:/Projects/C++Projects/Algorithm/cmake-build-debug/
 
 build cmake_object_order_depends_target_Algorithm: phony || CMakeFiles/Algorithm.dir
 
-build CMakeFiles/Algorithm.dir/Src/Main.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/Src/Main.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/Src/Main.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/Src/Main.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Src\Main.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Src
 
-build CMakeFiles/Algorithm.dir/LuoGu/P1000.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/LuoGu/P1000.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/LuoGu/P1000.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P1000.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P1000.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
-build CMakeFiles/Algorithm.dir/LuoGu/P1085.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/LuoGu/P1085.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/LuoGu/P1085.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P1085.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P1085.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
-build CMakeFiles/Algorithm.dir/LuoGu/P1035.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/LuoGu/P1035.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/LuoGu/P1035.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P1035.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P1035.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
-build CMakeFiles/Algorithm.dir/LuoGu/P1980.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/LuoGu/P1980.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/LuoGu/P1980.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P1980.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P1980.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
-build CMakeFiles/Algorithm.dir/LuoGu/P1014.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/LuoGu/P1014.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/LuoGu/P1014.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P1014.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P1014.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
-build CMakeFiles/Algorithm.dir/LuoGu/P1307.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/LuoGu/P1307.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/LuoGu/P1307.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P1307.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P1307.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
-build CMakeFiles/Algorithm.dir/LuoGu/P1003.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/LuoGu/P1003.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/LuoGu/P1003.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P1003.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P1003.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
-build CMakeFiles/Algorithm.dir/LuoGu/P1042.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/LuoGu/P1042.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/LuoGu/P1042.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P1042.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P1042.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
-build CMakeFiles/Algorithm.dir/LuoGu/B4025.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/LuoGu/B4025.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/LuoGu/B4025.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/B4025.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\B4025.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
-build CMakeFiles/Algorithm.dir/LuoGu/P1067.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/LuoGu/P1067.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/LuoGu/P1067.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P1067.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P1067.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
-build CMakeFiles/Algorithm.dir/LuoGu/P1179.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/LuoGu/P1179.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/LuoGu/P1179.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P1179.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P1179.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
-build CMakeFiles/Algorithm.dir/LuoGu/P1328.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/LuoGu/P1328.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/LuoGu/P1328.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P1328.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P1328.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
-build CMakeFiles/Algorithm.dir/P1563.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/P1563.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/P1563.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/P1563.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\P1563.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
-build CMakeFiles/Algorithm.dir/LuoGu/P2615.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/LuoGu/P2615.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/LuoGu/P2615.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P2615.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P2615.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
-build CMakeFiles/Algorithm.dir/LuoGu/P1223.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/LuoGu/P1223.cpp || cmake_object_order_depends_target_Algorithm
+build CMakeFiles/Algorithm.dir/LuoGu/P1223.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P1223.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P1223.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
-build CMakeFiles/Algorithm.dir/Competition/CaoTeacherGoldSentence.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/Algorithm/Competition/CaoTeacherGoldSentence.cpp || cmake_object_order_depends_target_Algorithm
-  DEP_FILE = CMakeFiles\Algorithm.dir\Competition\CaoTeacherGoldSentence.cpp.obj.d
+build CMakeFiles/Algorithm.dir/LuoGu/P2001.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P2001.cpp || cmake_object_order_depends_target_Algorithm
+  DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P2001.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Algorithm.dir
-  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Competition
+  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
+
+build CMakeFiles/Algorithm.dir/LuoGu/P3817.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P3817.cpp || cmake_object_order_depends_target_Algorithm
+  DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P3817.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
+
+build CMakeFiles/Algorithm.dir/LuoGu/P5019.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P5019.cpp || cmake_object_order_depends_target_Algorithm
+  DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P5019.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
+
+build CMakeFiles/Algorithm.dir/LuoGu/P1208.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P1208.cpp || cmake_object_order_depends_target_Algorithm
+  DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P1208.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
+
+build CMakeFiles/Algorithm.dir/LuoGu/P1080.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P1080.cpp || cmake_object_order_depends_target_Algorithm
+  DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P1080.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
+
+build CMakeFiles/Algorithm.dir/LuoGu/P3811.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Projects/C++Projects/AlgorithmCpp/LuoGu/P3811.cpp || cmake_object_order_depends_target_Algorithm
+  DEP_FILE = CMakeFiles\Algorithm.dir\LuoGu\P3811.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LuoGu
 
 
 # =============================================================================
@@ -159,7 +189,7 @@ build CMakeFiles/Algorithm.dir/Competition/CaoTeacherGoldSentence.cpp.obj: CXX_C
 #############################################
 # Link the executable Algorithm.exe
 
-build Algorithm.exe: CXX_EXECUTABLE_LINKER__Algorithm_Debug CMakeFiles/Algorithm.dir/Src/Main.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1000.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1085.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1035.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1980.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1014.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1307.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1003.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1042.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/B4025.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1067.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1179.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1328.cpp.obj CMakeFiles/Algorithm.dir/P1563.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P2615.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1223.cpp.obj CMakeFiles/Algorithm.dir/Competition/CaoTeacherGoldSentence.cpp.obj
+build Algorithm.exe: CXX_EXECUTABLE_LINKER__Algorithm_Debug CMakeFiles/Algorithm.dir/Src/Main.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1000.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1085.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1035.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1980.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1014.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1307.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1003.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1042.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/B4025.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1067.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1179.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1328.cpp.obj CMakeFiles/Algorithm.dir/P1563.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P2615.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1223.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P2001.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P3817.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P5019.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1208.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P1080.cpp.obj CMakeFiles/Algorithm.dir/LuoGu/P3811.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Algorithm.dir
@@ -174,7 +204,7 @@ build Algorithm.exe: CXX_EXECUTABLE_LINKER__Algorithm_Debug CMakeFiles/Algorithm
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D E:\Projects\C++Projects\Algorithm\cmake-build-debug && "D:\Environments\IDE\JetBrains Clion\CLion 2024.1.5\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D E:\Projects\C++Projects\AlgorithmCpp\cmake-build-debug && "D:\Environments\IDE\JetBrains Clion\CLion 2024.1.5\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -185,7 +215,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D E:\Projects\C++Projects\Algorithm\cmake-build-debug && "D:\Environments\IDE\JetBrains Clion\CLion 2024.1.5\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SE:\Projects\C++Projects\Algorithm -BE:\Projects\C++Projects\Algorithm\cmake-build-debug"
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D E:\Projects\C++Projects\AlgorithmCpp\cmake-build-debug && "D:\Environments\IDE\JetBrains Clion\CLion 2024.1.5\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SE:\Projects\C++Projects\AlgorithmCpp -BE:\Projects\C++Projects\AlgorithmCpp\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -203,7 +233,7 @@ build Algorithm: phony Algorithm.exe
 # =============================================================================
 
 #############################################
-# Folder: E:/Projects/C++Projects/Algorithm/cmake-build-debug
+# Folder: E:/Projects/C++Projects/AlgorithmCpp/cmake-build-debug
 
 build all: phony Algorithm.exe
 
@@ -214,14 +244,14 @@ build all: phony Algorithm.exe
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.28.6/CMakeCCompiler.cmake CMakeFiles/3.28.6/CMakeCXXCompiler.cmake CMakeFiles/3.28.6/CMakeRCCompiler.cmake CMakeFiles/3.28.6/CMakeSystem.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake E$:/Projects/C++Projects/Algorithm/CMakeLists.txt
+build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.28.6/CMakeCCompiler.cmake CMakeFiles/3.28.6/CMakeCXXCompiler.cmake CMakeFiles/3.28.6/CMakeRCCompiler.cmake CMakeFiles/3.28.6/CMakeSystem.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake E$:/Projects/C++Projects/AlgorithmCpp/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build CMakeCache.txt CMakeFiles/3.28.6/CMakeCCompiler.cmake CMakeFiles/3.28.6/CMakeCXXCompiler.cmake CMakeFiles/3.28.6/CMakeRCCompiler.cmake CMakeFiles/3.28.6/CMakeSystem.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake E$:/Projects/C++Projects/Algorithm/CMakeLists.txt: phony
+build CMakeCache.txt CMakeFiles/3.28.6/CMakeCCompiler.cmake CMakeFiles/3.28.6/CMakeCXXCompiler.cmake CMakeFiles/3.28.6/CMakeRCCompiler.cmake CMakeFiles/3.28.6/CMakeSystem.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-CXX.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake D$:/Environments/IDE/JetBrains$ Clion/CLion$ 2024.1.5/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake E$:/Projects/C++Projects/AlgorithmCpp/CMakeLists.txt: phony
 
 
 #############################################
